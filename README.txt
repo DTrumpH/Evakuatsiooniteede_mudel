@@ -23,6 +23,7 @@ Veesügavuse rastrid
 2."water_depth_scenario2.tif"
 3."water_depth_scenario3.tif"
 
-Kogu koodi jooksutamiseks on vajalik ainult kõrgusmudeli kaardilehed. Teised puuduolevad failid saab koodi rakendades arvutada.
+Kogu koodi jooksutamiseks on vajalik ainult kõrgusmudeli kaardilehed. Teised puuduolevad failid saab koodi rakendades arvutada. 
+Kaardilehed tuleb panna kausta "Evakuatsiooniteede_mudel\Height_DEM\DEM_1m"
 
 Töö autorid: Mihkel Paal, Daniel Henri Trump, Iris Luik, Ülle Kass
